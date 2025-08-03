@@ -1,0 +1,28 @@
+{
+    "lastModifiedBy": {
+        "build": 20230504,
+        "major": 2023,
+        "patch": 4
+    },
+    "reports": [
+        {
+            "items": [
+                {
+                    "description": "",
+                    "module": "ModelerViewer",
+                    "name": "Components\\component1\\ground",
+                    "options": "{\"addOverlay\":true}",
+                    "screenshotFilepath": "3ae08d133b5347d893e7c6b140191317\\e8bd09ba9_b_4_6_8__b__cc_b93_f7c.png",
+                    "sortkey": 0,
+                    "treePath": "{\"plotSettings\":\"<?xml version=\\\"1.0\\\" encoding=\\\"UTF-8\\\"?>\\n<RememberPlots version=\\\"20200930\\\">\\n  <ModelViewSettings name=\\\"\\\" workplane=\\\"1\\\">\\n    <ViewSettings axes=\\\"1\\\" bbox=\\\"1\\\" wireframe=\\\"0\\\">\\n      <Camera matrix=\\\"1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1\\\" center=\\\"-28.3155956 -20.7044029\\\" distance=\\\"2831.16089\\\" scale=\\\"8.15684605\\\"/>\\n      <Cutplane active=\\\"0\\\" normal=\\\"1 0 0\\\" dist=\\\"0\\\" covermode=\\\"HIDE\\\"/>\\n    </ViewSettings>\\n  </ModelViewSettings>\\n</RememberPlots>\\n\",\"treePaths\":[\"Components\\\\component1\\\\ground\"]}",
+                    "uid": "e8bd09ba91b24162815b25cc1b932f7c",
+                    "vis3DFilepath": ""
+                }
+            ],
+            "name": "Report 1",
+            "pathName": "3ae08d133b5347d893e7c6b140191317",
+            "uid": "3ae08d133b5347d893e7c6b140191317"
+        }
+    ],
+    "version": 20200902
+}

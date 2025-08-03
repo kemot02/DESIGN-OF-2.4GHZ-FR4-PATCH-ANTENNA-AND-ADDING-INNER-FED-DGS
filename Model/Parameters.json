@@ -1,0 +1,71 @@
+{
+    "parameters": [
+        {
+            "descr": "Width of substrate",
+            "expr": "65",
+            "name": "W",
+            "value": "65"
+        },
+        {
+            "descr": "Length of substrate",
+            "expr": "65",
+            "name": "L",
+            "value": "65"
+        },
+        {
+            "descr": "Height of substrate",
+            "expr": "1.6",
+            "name": "h",
+            "value": "1.6"
+        },
+        {
+            "descr": "Width of patch",
+            "expr": "38.620",
+            "name": "Wp",
+            "value": "38.620"
+        },
+        {
+            "descr": "Length of patch",
+            "expr": "28.789",
+            "name": "Lp",
+            "value": "28.789"
+        },
+        {
+            "descr": "Height of patch",
+            "expr": "0.035",
+            "name": "g",
+            "value": "0.035"
+        },
+        {
+            "descr": "Width of feedline",
+            "expr": "1.4",
+            "name": "wf",
+            "value": "1.4"
+        },
+        {
+            "descr": "Inset fed length",
+            "expr": "6.1",
+            "name": "GL",
+            "value": "6.1"
+        },
+        {
+            "descr": "Inset fed width",
+            "expr": "2",
+            "name": "GW",
+            "value": "2"
+        },
+        {
+            "descr": "Width of DGS",
+            "expr": "5",
+            "name": "Dgsw",
+            "value": "5"
+        },
+        {
+            "descr": "Length of DGS",
+            "expr": "5",
+            "name": "Dgsl",
+            "value": "5"
+        }
+    ],
+    "version": 1
+}
